@@ -21,6 +21,10 @@ import android.os.Bundle;
 import android.view.View;
 import android.view.Window;
 
+/**
+ * Created by Guilherme Varela, RA: 81613746.
+ */
+
 public class DialogActivity extends Activity {
     @Override
     protected void onCreate(Bundle savedInstanceState) {

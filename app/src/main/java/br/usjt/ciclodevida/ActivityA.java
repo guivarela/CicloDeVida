@@ -27,7 +27,7 @@ import br.usjt.ciclodevida.util.Utils;
 import br.usjt.ciclodevida.R;
 
 /**
- * Example Activity to demonstrate the lifecycle callback methods.
+ * Created by Guilherme Varela, RA: 81613746.
  */
 public class ActivityA extends Activity {
 

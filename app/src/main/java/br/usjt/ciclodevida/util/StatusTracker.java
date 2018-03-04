@@ -18,6 +18,10 @@ package br.usjt.ciclodevida.util;
 
 import java.util.*;
 
+/**
+ * Created by Guilherme Varela, RA: 81613746.
+ */
+
 public class StatusTracker {
     private Map<String, String> mStatusMap;
     private List<String> mMethodList;

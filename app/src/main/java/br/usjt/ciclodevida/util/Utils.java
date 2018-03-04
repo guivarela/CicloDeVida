@@ -21,6 +21,10 @@ import android.widget.TextView;
 
 import java.util.List;
 
+/**
+ * Created by Guilherme Varela, RA: 81613746.
+ */
+
 public class Utils {
 
     private static StatusTracker mStatusTracker = StatusTracker.getInstance();
